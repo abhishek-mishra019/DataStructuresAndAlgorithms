@@ -1,12 +1,3 @@
-rahul parametrised ctor called
-rahul is studying
-ranu parametrised ctor called
-ranu is bunking
-student copy ctor called
-rahul is sleeping
-Ronaldo parametrised ctor called
-Ronaldo is studying
-Ronaldo default dtor called
-rahul default dtor called
-ranu default dtor called
-rahul default dtor called
+Marketing Manager creating a marketing strategy.
+Sales Manager boosting sales.
+Business Development Manager coordinating business development efforts.
